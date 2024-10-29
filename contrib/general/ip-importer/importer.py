@@ -3,7 +3,7 @@ import json
 import logging
 
 # Define variables 
-API_KEY = "0sRYlI0PHb0L7t8UJDd4xPKBMSbHuZiB" #API Key for CC
+API_KEY = "" #API Key for CC
 JSON_URL = "http://localhost:8123/random_ips.json" #URL to access your json list including the ip 
 CC_IP = "10.10.10.110:8080" #CC IP including API port.
 JSON_ID = "ips" #Identifier for the IPs array within JSON
